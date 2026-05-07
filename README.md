@@ -55,4 +55,4 @@ src/
 
 ## Notes
 
-- The assignment text mentions a "backend project" deliverable, but this implementation intentionally targets the stated Tree View UI requirement and is frontend-only by design.
+- The constraint stated Tree View UI requirement and is frontend-only by design.
